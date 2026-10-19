@@ -1,3 +1,4 @@
+Components,Components,Components,Components
 Designation,Comment,Quantity,Price (USD),Link
 C1,1uF,20,0.17,https://jlcpcb.com/partdetail/TaiyoYuden-JMK063ABJ105MPF/C87143
 "C13,C14",10uF,6,1.1376,https://jlcpcb.com/partdetail/KyoceraAVX-TAJA106K016RNJ/C7171
@@ -17,8 +18,8 @@ Y1,12MHz,6,0.3756,https://jlcpcb.com/partdetail/C55155400
 "J2,J3",Conn_01x08_Pin,,,
 
 
-
-CHARGE,PCB Price,1,4.00,
+CHARGES,CHARGES,CHARGES,CHARGES
+,PCB Price,1,4.00,
 
 ,Standard PCBA Price,1,67.63,
 ,Setup Fee,1,25.75,
@@ -29,6 +30,6 @@ CHARGE,PCB Price,1,4.00,
 ,Feeders Loading fee,1,21.70,
 ,SMT Assembly,1,0.94,
 ,Packaging fee,1,0.50,
-CHARGE,Special components fee,1,0.06,
-CHARGE,Shipping,1,11.47,
+,Special components fee,1,0.06,
+,Shipping,1,11.47,
 TOTAL,Order total (PCB + Standard PCBA + shipping; PCBA breakdown not double-counted),,83.10,
