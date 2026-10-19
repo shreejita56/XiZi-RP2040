@@ -15,19 +15,20 @@ U2,MCP1700x-330xxTT,5,2.3595,https://jlcpcb.com/partdetail/MicrochipTech-MCP1700
 U4,W25Q16JVUXIQTR,2,2.3546,https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVSSIQ/C82317
 Y1,12MHz,6,0.3756,https://jlcpcb.com/partdetail/C55155400
 "J2,J3",Conn_01x08_Pin,,,
-SW1,SW_Push,,,
+
+
+
 CHARGE,PCB Price,1,4.00,
-CHARGE,Via Covering,1,0.00,
-CHARGE,Special Offer,1,4.00,
-CHARGE,Standard PCBA Price,1,67.63,
-CHARGE,Setup Fee,1,25.75,
-CHARGE,Stencil,1,8.27,
-CHARGE,Panel,1,0.00,
-CHARGE,Large Size,1,0.00,
-CHARGE,Components (14 items),1,10.41,
-CHARGE,Feeders Loading fee,1,21.70,
-CHARGE,SMT Assembly,1,0.94,
-CHARGE,Packaging fee,1,0.50,
+
+,Standard PCBA Price,1,67.63,
+,Setup Fee,1,25.75,
+,Stencil,1,8.27,
+,Panel,1,0.00,
+,Large Size,1,0.00,
+,Components (14 items),1,10.41,
+,Feeders Loading fee,1,21.70,
+,SMT Assembly,1,0.94,
+,Packaging fee,1,0.50,
 CHARGE,Special components fee,1,0.06,
 CHARGE,Shipping,1,11.47,
 TOTAL,Order total (PCB + Standard PCBA + shipping; PCBA breakdown not double-counted),,83.10,
